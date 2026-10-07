@@ -1,5 +1,5 @@
 public class helloworld {
    public static void main(String[] args) {
-    System.out.println("Hello World from GitHub Polllllll with web hook.");
+    System.out.println("Hello World from GitHub Poll with web hook.");
     }
 }
